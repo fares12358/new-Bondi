@@ -78,7 +78,7 @@ body {
 
 .features .icon-holder .number {
     font-size: 12rem;
-    color: transparent;
+    color: transparent !important;
 }
 
 .features .icon-holder .icon {
